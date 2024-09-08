@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ethsign/sp-sdk": "^0.7.3"
+  }
+}
